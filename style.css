@@ -1,0 +1,19 @@
+html, body {
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+}
+
+body {
+    display: flex;
+    border: 1px solid red;
+}
+
+.visuals {
+    background-color: blue;
+}
+
+.inputs {
+    background-color: red;
+    flex: 1;
+}
