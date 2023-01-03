@@ -23,3 +23,37 @@ body {
     border: 1px solid red;
     flex: 1;
 }
+
+#form {
+    padding: 12px;
+    padding-left: 40px;
+}
+
+#formTitle {
+    margin: 0px;
+    padding: 0px;
+    padding-bottom: 20px;
+}
+
+#submission {
+    padding: 25px;
+}
+
+#createaccountbutton {
+    color: white;
+    font-size: 20px;
+    background-color: #556b2f;
+    padding: 10px;
+    padding-left: 35px;
+    padding-right: 35px;
+    border-radius: 8px;
+    border: none;
+}
+
+#createaccountbutton:hover {
+    cursor: pointer;
+}
+
+#redirect {
+    font-size: 20px;
+}
