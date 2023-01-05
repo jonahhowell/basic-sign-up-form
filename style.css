@@ -13,6 +13,10 @@ label, input {
     display: block;
 }
 
+input {
+    width: 200px;
+}
+
 .visuals {
     background-color: blue;
 }
@@ -37,6 +41,11 @@ label, input {
     margin: 0px;
     padding: 0px;
     padding-bottom: 20px;
+}
+
+td {
+    padding-bottom: 10px;
+    padding-right: 15px;
 }
 
 #submission {
