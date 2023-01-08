@@ -6,11 +6,18 @@ html, body {
 
 body {
     display: flex;
+    width: 100vw;
+    height: 100vh;
     font-family: Roboto;
 }
 
 label, input {
     display: block;
+}
+
+#pic {
+    width: auto;
+    height: 100vh;
 }
 
 input {
@@ -54,6 +61,7 @@ td {
 #submission {
     padding: 25px;
     padding-left: 40px;
+    padding-bottom: 0px;
     color: #f0f0f0;
 }
 
